@@ -1,0 +1,64 @@
+Headgears Collection by $ephiroth
+
+1. 5301#Victory_Hairband#
+2. 5305#Pirate_Dagger#
+3. 5306#Freya's_Crown#
+4. 5307#Carmen_Miranda's_Hat#
+5. 5308#Brazil_National_Flag_Hat#
+6. 5310#Shining_Electric_Bulb_Hairband#
+7. 5311#Large_Hibiscus#
+8. 5312#Ayothaya_King's_Hat#
+9. 5313#Diadem#
+10.5314#Hockey_Mask#
+11.5315#Observer#
+12.5316#Umbrella_Hat#
+13.5317#Fisherman's_Hat#
+14.5318#Poring_Party_Hat#
+15.5319#Hello_Mother_Hat#
+16.5320#Sacred_Palma#
+17.5321#Bandana_Merah_Putih#
+18.5322#Kerchief#
+19.5333#Antenna#
+20.5334#Flying_Angeling#
+21.5335#Squatting_Poring#
+22.5336#Guild_Member_Hat#
+23.5337#Party_Member_Hat#
+24.5338#Boyfriend_Hat#
+25.5339#Friend_Hat#
+26.5340#Deporte_Doll_Hat#
+27.5341#Glarice_Doll_Hat#
+28.5342#Sorin_Doll_Hat#
+29.5343#Tailring_Doll_Hat#
+30.5344#Vinit_Doll_Hat#
+31.5345#W_Doll_Hat#
+32.5346#Girlfriend_Hat#
+33.5354#Songkok#
+34.5355#Selendang#
+35.5357#Wings_of_Victory#
+36.5358#Peco-Peco_Ears#
+37.5359#Ship_Captain_Hat#
+38.5360#Hyuke's_Black_Cat_Ears#
+39.5361#Gangster_Scarf#
+40.5362#Ninja's_Scroll#
+41.5366#Love_Dad_Bandana#
+42.5370#Orchid_Hairband#
+43.5371#Judge_Cap#
+44.5372#Koneko_Hat#
+45.5373#Dark_Randgris_Helm#
+46.5374#Baphomet_Horns#
+47.5375#Orc_Hero_Headdress#
+48.5376#Flying_Evil_Wing#
+49.5377#Gentleman's_Pipe#
+50.5378#Bunny_Top_Hat#
+51.5379#Balloon_Hat#
+52.5384#Twin_Pompom_By_JB#
+53.5385#Yoyo_Hat#
+54.5388#Snake_Head_Hat#
+55.5389#Angel_Of_Ghost#
+56.5390#Frozen_Twin_Pompom#
+57.5392#Louyang_NewYear_Hat#
+58.5393#Valentine_Hat#
+59.5395#Tiraya_Bonnet#
+60.5396#Jasper_Crest#
+61.5397#Scuba_Mask#
+62.5400#Fox_Hat#

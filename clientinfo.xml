@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="euc-kr" ?> 
+<clientinfo> 
+<servicetype>korea</servicetype>
+<servertype>sakray</servertype>
+  <connection>
+  <desc>try before release</desc>
+     <display>Spirit RO</display>
+     <balloon>on mouse over display</balloon>
+     <address>103.31.251.164</address>
+     <port>6900</port>
+     <version>25</version>
+     <langtype>11</langtype>
+     <registrationweb>http://samplero.no-ip.com/cp</registrationweb>
+     <aid>
+	 <admin>2000000</admin>
+	 <admin>2000001</admin>
+	 </aid>
+	 <yellow>
+	 <admin>2000000</admin>
+	 <admin>2000001</admin>
+	 </yellow>
+  </connection>
+</clientinfo>

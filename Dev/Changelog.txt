@@ -1,0 +1,78 @@
+====================================
+= English Translation by $ephiroth =
+====================================
+
+2008-03-19
+	* Added desc & item names 5395, 5396, 5397, 12303, 13974.
+	* Corrected desc 5372, 5375.	
+
+2008-03-18
+	* Fixed msgstringtable.txt
+	* Updated msgstringtable.txt
+	* Added book reading system 7127 - 7133, 7144, 7434, 7755.
+		
+2008-03-13
+	* Fixed item names 7730 - 7741.
+	* Updated desc 7915, 7916, 12715, 14534 - 14537.
+	* Import missing desc 13722 - 13725 to num2itemdesc.
+
+2008-03-12
+	* Added desc & item names 7915, 7916, 12715, 12300 - 12302.
+	* Added desc & item names 12276 - 12278, 13896 - 13901.
+
+2008-03-09
+	* Added desc 7722 - 7726, 7751 - 7755,
+	* Fixed desc 7730 - 7741,7756. 
+	* Import missing Ids desc 7751 - 7754 to idnum2itemdesctable.
+
+2008-03-06
+	* Fixed Applicable job desc 2376.
+
+2008-03-05
+	* Added desc & item names 6008, 5812, 5394, 2742, 13968 - 13973.
+
+2008-02-28
+	* Corrected Required lvl desc 2730,2731.
+
+2008-02-27
+	* Fixed item names 13036, 13037.
+	* Updated desc 13036, 13037.
+	* Fixes desc 5340 - 5345.
+	* Added desc & item names 7914, 12714, 13962 - 13967.
+
+2008-02-24
+	* Added desc 5272,5296,5298,5299,7706,7707,7708,7709,
+	  13821,13822,13823,13824.
+	* Added desc 7805,7806,7807,7808,7809,7810,7812,7813,7814,7815,7816,7817,2709.	
+	* Fixed desc 7881,7811.
+
+2008-02-23
+	* Added desc 5385.
+	* Fixed item names 2540, 2437. 
+	* Fixed desc 2381, 2382, 2538, 2539.
+	* Fixed Required Level desc 2728.
+
+2008-02-22
+	* Added desc 7603.
+
+2008-02-21
+	* Added desc 7710,1274.
+
+2008-02-20
+	* Added recent kro item.
+	* Added desc & item names 13915,13916,13917,12287,12288,12289.
+	* Added missing desc & item names 13942,13943,13944.
+	* Fixed desc and names 5392.
+	* Fixed names of 5393.
+	* Added desc & names 13961,13109,13175,2741,2384,2385,2132,2543,2439,5391.
+	* Added desc & names 13951 - 13959.
+
+2008-02-18
+	* Added some desc and item names.
+	* Fixed missing weight desc 13937,13938,13939.
+	* Fixed a typos.
+	* Fixed item names 2435.
+	* Fixed bugs report.
+	
+
+	
